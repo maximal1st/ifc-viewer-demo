@@ -1,0 +1,32 @@
+{
+	"27013": {
+		"Id": "О1.27",
+		"Code": "ОД1.ТЗ.АВТ.МАБ-2318",
+		"Quality Status": "Attention",
+		"Quality Status Timestamp": "2025-02-02T06:00:08.473192"
+	},
+	"27421": {
+		"Id": "О1.9",
+		"Code": "ОД1.НР.ЦКР.БЦ-TW",
+		"Quality Status": "Critical",
+		"Quality Status Timestamp": "2024-12-14T13:42:54.734599"
+	},
+	"59553": {
+		"Id": "О1.34",
+		"Code": "ОД1.ДЕМ.ДОБ",
+		"Quality Status": "Critical",
+		"Quality Status Timestamp": "2025-04-09T10:20:42.934497"
+	},
+	"59753": {
+		"Id": "О1.34",
+		"Code": "ОД1.ДЕМ.ДОБ",
+		"Quality Status": "Critical",
+		"Quality Status Timestamp": "2025-04-09T10:20:42.934497"
+	},
+	"60012": {
+		"Id": "О1.10",
+		"Code": "ОД1.НР.ЦКР.БЦ-GL",
+		"Quality Status": "OK",
+		"Quality Status Timestamp": "2024-10-03T19:26:43.361427"
+	}
+}
