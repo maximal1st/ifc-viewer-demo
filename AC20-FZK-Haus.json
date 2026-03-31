@@ -1,32 +1,82 @@
 {
-	"27013": {
-		"Id": "О1.27",
-		"Code": "ОД1.ТЗ.АВТ.МАБ-2318",
-		"Quality Status": "Attention",
-		"Quality Status Timestamp": "2025-02-02T06:00:08.473192"
-	},
-	"27421": {
-		"Id": "О1.9",
-		"Code": "ОД1.НР.ЦКР.БЦ-TW",
-		"Quality Status": "Critical",
-		"Quality Status Timestamp": "2024-12-14T13:42:54.734599"
-	},
 	"59553": {
-		"Id": "О1.34",
-		"Code": "ОД1.ДЕМ.ДОБ",
-		"Quality Status": "Critical",
-		"Quality Status Timestamp": "2025-04-09T10:20:42.934497"
+        "Quality Status Id": "20",
+		"Period Status Id": "1",
 	},
-	"59753": {
-		"Id": "О1.34",
-		"Code": "ОД1.ДЕМ.ДОБ",
-		"Quality Status": "Critical",
-		"Quality Status Timestamp": "2025-04-09T10:20:42.934497"
+    "59753": {
+        "Quality Status Id": "10",
+		"Period Status Id": "2",
 	},
-	"60012": {
-		"Id": "О1.10",
-		"Code": "ОД1.НР.ЦКР.БЦ-GL",
-		"Quality Status": "OK",
-		"Quality Status Timestamp": "2024-10-03T19:26:43.361427"
+    "34191": {
+        "Quality Status Id": "30",
+		"Period Status Id": "1",
+	},
+    "21640": {
+        "Quality Status Id": "30",
+		"Period Status Id": "2",
+	},
+    "21283": {
+        "Quality Status Id": "20",
+		"Period Status Id": "13",
+	},
+    "20909": {
+        "Quality Status Id": "20",
+		"Period Status Id": "3",
+	},
+    "76214": {
+        "Quality Status Id": "10",
+		"Period Status Id": "4",
+	},
+    "21966": {
+        "Quality Status Id": "20",
+		"Period Status Id": "4",
+	},
+    "27421": {
+        "Quality Status Id": "10",
+		"Period Status Id": "5",
+	},
+    "31470": {
+        "Quality Status Id": "20",
+		"Period Status Id": "5",
+	},
+    "32407": {
+        "Quality Status Id": "10",
+		"Period Status Id": "6",
+	},
+    "23024": {
+        "Quality Status Id": "30",
+		"Period Status Id": "6",
+	},
+    "23944": {
+        "Quality Status Id": "20",
+		"Period Status Id": "7",
+	},
+    "27833": {
+        "Quality Status Id": "10",
+		"Period Status Id": "7",
+	},
+    "28113": {
+        "Quality Status Id": "20",
+		"Period Status Id": "8",
+	},
+    "31818": {
+        "Quality Status Id": "30",
+		"Period Status Id": "8",
+	},
+    "74280": {
+        "Quality Status Id": "10",
+		"Period Status Id": "8",
+	},
+    "66459": {
+        "Quality Status Id": "20",
+		"Period Status Id": "8",
+	},
+    "27013": {
+        "Quality Status Id": "30",
+		"Period Status Id": "7",
+	},
+    "31079": {
+        "Quality Status Id": "10",
+		"Period Status Id": "6",
 	}
 }
